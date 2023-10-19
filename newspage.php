@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Bon Hotel</title>
+    <link rel="stylesheet" href="./index.php">
     <link rel="stylesheet" href="style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -18,9 +19,9 @@
         <div class="header-flex">
             <img src="./style/download 1.png" alt="Logo">
             <nav class="navigation">
-                <a href="index.html#first-section" class="nav-link">Our Hotel</a> 
-                <a href="#" class="nav-link">Rooms & Rates</a> 
-                <a href="#" class="nav-link">Facilities</a> 
+                <a href="./index.php" class="nav-link">Our Hotel</a> 
+                <a href="./index.php" class="nav-link">Rooms & Rates</a> 
+                <a href="./index.php" class="nav-link">Facilities</a> 
                 <a href="#" class="nav-link">Contact Us</a>
             </nav>
         </div>
