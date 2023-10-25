@@ -18,7 +18,9 @@
     padding-bottom: 18px;
 }
 
-.nav-link{
+.nav-link , 
+#fname ,
+#password {
     color: #957554;
     font-family: 'Ubuntu' , sans-serif; 
     font-size: 24px;
@@ -299,4 +301,38 @@ footer{
 }
 .gallery-grid img:hover {
     transform: scale(1.5);
+}
+
+
+/* form */
+
+.reg-form{
+    background-image: url(./style/background.png);
+    height: 100vh;  
+    width: 100%;
+    background-repeat: no-repeat; 
+    background-size: cover;
+    justify-content: center;
+    margin-bottom: 80px;
+}
+
+.reg-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    gap: 50px;
+}
+
+.reg-title{
+    display: flex;
+    justify-content: center;
+    align-items: start;
+}
+
+#reg-text , 
+#fname ,
+#password{
+    color: #000;
 }

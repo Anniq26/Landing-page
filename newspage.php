@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Bon Hotel</title>
+    <link rel="stylesheet" href="./registration.php">
     <link rel="stylesheet" href="./index.php">
     <link rel="stylesheet" href="style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -22,7 +23,9 @@
                 <a href="./index.php" class="nav-link">Our Hotel</a> 
                 <a href="./index.php" class="nav-link">Rooms & Rates</a> 
                 <a href="./index.php" class="nav-link">Facilities</a> 
-                <a href="#" class="nav-link">Contact Us</a>
+                <a href="./newspage.php" class="nav-link">Contact Us</a>
+                <a href="./registration.php" class="nav-link">Registration</a>
+
             </nav>
         </div>
     </div>
@@ -82,6 +85,7 @@
             <img src="./style/10.png" alt="Gallery Img">
             <img src="./style/11.png" alt="Gallery Img">
             <img src="./style/12.png" alt="Gallery Img">
+            
         </div>
     </div>
 </section>
