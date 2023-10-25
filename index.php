@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Bon Hotel</title>
     <link rel="stylesheet" href="./newspage.php">
+    <link rel="stylesheet" href="./registration.php">
     <link rel="stylesheet" href="style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -21,6 +22,7 @@
                     <a href="./index.php" class="nav-link">Rooms & Rates</a> 
                     <a href="./index.php" class="nav-link">Facilities</a> 
                     <a href="./newspage.php" class="nav-link">Contact Us</a>
+                    <a href="./registration.php" class="nav-link">Registration</a>
                 </nav>
             </div>
         </div>
